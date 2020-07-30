@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt text](images/tdd_speech.jpeg?raw=true "TDD")
+
+I'm Jesus, an Agile Developer who strong believes in eXtreme Programming Principles, Practices and Values, and I try to apply them on my daily basis.
+
+
+- I’m currently working on Solera Inc.
+- I love to work applying SOLID, TDD, BDD and Clean Code
+- I like to code in any language, but I mostly code with Java
+- Reach me: https://twitter.com/geeksusma
