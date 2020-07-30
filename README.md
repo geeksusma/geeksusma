@@ -23,4 +23,5 @@ I'm Jesus, an Agile Developer who strong believes in eXtreme Programming Princip
 - I’m currently working on Solera Inc.
 - I love to work applying SOLID, TDD, BDD and Clean Code
 - I like to code in any language, but I mostly code with Java
+- I'm taking part of some tech communities, like SVQ-JUG and Agile Sur
 - Reach me: https://twitter.com/geeksusma
