@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](images/tdd_speech.jpeg?raw=true "TDD")
+![Alt text](images/tdd_speech.jpeg)
 
 I'm Jesus, an Agile Developer who strong believes in eXtreme Programming Principles, Practices and Values, and I try to apply them on my daily basis.
 
