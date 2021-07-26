@@ -27,11 +27,11 @@ I'm Jesus, an Agile Developer who strong believes in eXtreme Programming Princip
 - 📫 Reach me: https://twitter.com/geeksusma
 - 📫 Also you can have a look at my [professional github account](https://github.com/geeksusma-cdr)
 - Formerly at:
--   Solera CoE
--   Wata Factory
--   EPG (:zombie:)
--   BestSecret
--   Base100
--   everis Centers
--   Aticsa (:zombie:)
--   Area 10
+  - Solera CoE
+  - Wata Factory
+  - EPG (:zombie:)
+  - BestSecret
+  - Base100
+  - everis Centers
+  - Aticsa (:zombie:)
+  - Area 10
