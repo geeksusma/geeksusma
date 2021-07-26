@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I'm Jesus, an Agile Developer who strong believes in eXtreme Programming Principles, Practices and Values, and I try to apply them on my daily basis.
 
 
-- I’m currently working on Solera Inc.
-- I love to work applying SOLID, TDD, BDD and Clean Code
-- I like to code in any language, but I mostly code with Java
-- I'm taking part of some tech communities, like SVQ-JUG and Agile Sur
-- Reach me: https://twitter.com/geeksusma
+- 🔭 I’m currently working at [Codurance](https://www.codurance.com/about-us/our-people/)
+- 💬 I love to work applying SOLID, TDD, BDD and Clean Code
+- 🌱 I like to code in any language, but I mostly code with Java
+- 👯 I'm taking part of some tech communities, like SVQ-JUG and Agile Sur
+- 📫 Reach me: https://twitter.com/geeksusma
+- 📫 Also you can have a look at my [professional github account](https://github.com/geeksusma-cdr)
