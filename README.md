@@ -11,8 +11,8 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
 - 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
 - 📫 Also you can have a look at my [professional github account](https://github.com/geeksusma-cdr)
 - Formerly at:
-  - Solera CoE
-  - Wata Factory
+  - [Solera CoE] (https://www.solerainc.es/)
+  - [Wata Factory] (https://wata.es/es/)
   - EPG (:zombie:)
   - BestSecret
   - Base100
@@ -41,10 +41,10 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :radio: Podcasts
 
-* [Link comming soon. BiriBiriShow]() @ With Matheus Marabesi & JP Blanco - August 2022
-* [Surf, Punk y RevenueCat](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Miguel Carranza - 2022
-* [Inclusividad en Agile 20 años después](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Cristina Santamarina - 2021
-* [Reclutamiento de perfiles IT](https://trabajoenremoto.com/podcast/reclutamiento-perfiles-it) @ With Julio César Pérez Arqués - 2020
+* [Link comming soon. BiriBiriShow]() @ With Matheus Marabesi (@MatheusMarabesi) & JP Blanco (@JPBlancoDB) - August 2022
+* [Surf, Punk y RevenueCat](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Miguel Carranza (@elwatto) - 2022
+* [Inclusividad en Agile 20 años después](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Cristina Santamarina (@crissantamarina) - 2021
+* [Reclutamiento de perfiles IT](https://trabajoenremoto.com/podcast/reclutamiento-perfiles-it) @ With Julio César Pérez Arqués (@jcesarperez) - 2020
 
 ## :pen: Articles, publications, and blogs
 
