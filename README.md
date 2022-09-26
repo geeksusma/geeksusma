@@ -41,7 +41,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :radio: Podcasts
 
-* [Link comming soon. BiriBiriShow]() @ With Matheus Marabesi (@MatheusMarabesi) & JP Blanco (@JPBlancoDB) - August 2022
+* [Vue + Microfrontends at BiriBiriShow](https://anchor.fm/biri-biri-show/episodes/EP-28---micro-frontends--vuejs-y-como-siempre-SCRUM----con-Jesus-Mara-Villar-Vazquez-geeksusma-e1mlv6b) @ With Matheus Marabesi (@MatheusMarabesi) & JP Blanco (@JPBlancoDB) - August 2022
 * [Surf, Punk y RevenueCat](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Miguel Carranza (@elwatto) - 2022
 * Microfrontends and Agile @ With Playtomic Tech (@playtomictech) - 2021
 * [Inclusividad en Agile 20 años después](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Cristina Santamarina (@crissantamarina) - 2021
