@@ -4,13 +4,14 @@
 
 I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Principles, Practices, and Values, and I try to apply them daily.
 
-- 🔭 I’m currently working at [Codurance](https://www.codurance.com/about-us/our-people/)
+- 🔭 I’m currently working at [Celonis](https://www.celonis.com/)
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Java
 - 👯 I'm taking part in some tech communities, like SVQ-JUG and Agile Sur
 - 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
 - 📫 Also you can have a look at my [professional github account](https://github.com/geeksusma-cdr)
 - Formerly at:
+  - [Codurance](https://www.codurance.com)
   - [Solera CoE](https://www.solerainc.es/)
   - [Wata Factory](https://wata.es/es/)
   - EPG (:zombie:)
@@ -22,7 +23,7 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
   
 ## :people_hugging: Communities
 
-I'm an active organizer of [AgileSur](https://www.meetup.com/es-ES/agile-sur/)
+I'm a member of [AgileSur](https://www.meetup.com/es-ES/agile-sur/)
 
 In addition, I also support the next communities, attending regularly to their meetups when it is possible.
 
