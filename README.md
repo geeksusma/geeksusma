@@ -32,6 +32,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* [Coming soon at JOTB](https://www.jonthebeach.com/speakers)
 * [Agile para neofitos, no caigas en la trampa](https://www.youtube.com/watch?v=URaOdvW-Co0) - @ Aula de Emprendimiento del IES Rafael Alberti (Cadiz) - December of 2021 :warning: The first 10 minutes or so are muted :(
 * [Por qué Scrum sin XP no vale un carajo](https://www.youtube.com/watch?v=kccvWjhg9Yw) - @ AgileSur - October 2021
 * [TDD - Yes we can!](https://github.com/geeksusma/tdd-example) - @ Wata Academy - January 2020
