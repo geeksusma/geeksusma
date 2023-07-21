@@ -17,7 +17,7 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
   - EPG (:zombie:)
   - [BestSecret](https://www.bestsecret.com/entrance/index.htm)
   - [Base100](https://base100.com/)
-  - [everis Centers (now NTT DATA)]([https://base100.com/](https://www.nttdata.com/global/en/)
+  - [everis Centers (now NTT DATA)](https://www.nttdata.com/global/en/)
   - Aticsa (:zombie:)
   - Area 10
   
