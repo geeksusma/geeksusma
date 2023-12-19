@@ -53,6 +53,9 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :pen: Articles, publications, and blogs
 
+* [Can Engineers Save the Planet? - Part 4. The talk](https://engineering.celonis.com/blog/can-engineers-save-the-planet-talk-part-4/)
+* [Can Engineers Save the Planet? - Part 3. Delivering the talk @JOTB](https://engineering.celonis.com/blog/can-engineers-save-the-planet-talk-part-3/)
+* [Can Engineers Save the Planet? - Part 2. Delivering the talk @Codemotion](https://engineering.celonis.com/blog/can-engineers-save-the-planet-talk-part2/)
 * [Can Engineers Save the Planet? - Part 1. How to develop a talk for a big event](https://engineering.celonis.com/blog/codemotion-and-jonthebeach-part-1/)
 * [Rest API Best Practices - 2nd Maturity Level](https://github.com/geeksusma/rest-2nd-level)
 * Scrum Planning: The importance of a good task division.
