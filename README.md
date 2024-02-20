@@ -9,7 +9,6 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
 - 🌱 I like to code in any language, but I mostly code with Java
 - 👯 I'm taking part in some tech communities, like SVQ-JUG and Agile Sur
 - 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
-- 📫 Also you can have a look at my [professional github account](https://github.com/geeksusma-cdr)
 - Formerly at:
   - [Codurance](https://www.codurance.com)
   - [Solera CoE](https://www.solerainc.es/)
@@ -23,12 +22,11 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
   
 ## :people_hugging: Communities
 
-I'm a member of [AgileSur](https://www.meetup.com/es-ES/agile-sur/)
+I was a member of [AgileSur](https://www.meetup.com/es-ES/agile-sur/)
 
 In addition, I also support the next communities, attending regularly to their meetups when it is possible.
 
 * [SVQ Java Users Group](https://www.meetup.com/svqjug/?_locale=es-ES)
-* [Codurance Crafters](https://www.meetup.com/es-ES/codurance-craft-events/)
 
 ## :microphone: Talks
 
