@@ -30,6 +30,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/watch?v=OAd5xZ6SwUU) @ Software Crafters Murcia (Remote) - Feb 2024
 * [Test de persistencia con Testcontainers](https://www.youtube.com/live/RKSeskXhOGE?si=gO7uue7XA45IapK0) @ Garaje de Ideas (Remote) - Oct 2023
 * [Can Engineers Save the Planet?](https://youtu.be/t2cfrOS5bag) - @ Codemotion (Madrid) - May 2023
 * [Can Engineers Save the Planet?](https://youtu.be/9ztPPMvn-2Q) - @ JOnTheBeach (Málaga) May 2023
