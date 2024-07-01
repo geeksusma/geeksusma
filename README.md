@@ -7,7 +7,7 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
 - 🔭 I’m currently working at [Celonis](https://www.celonis.com/)
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Java
-- 👯 I'm taking part in some tech communities, like SVQ-JUG and Agile Sur
+- 👯 I'm taking part in some tech communities, like SVQ-JUG and any other Agile one focused creating well crafted code
 - 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
 - Formerly at:
   - [Codurance](https://www.codurance.com)
@@ -30,6 +30,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/live/CUZ-dpK4M5I?si=-bBDQk06RaIxXYFB) @ Mes de QA (Remote) - Jun 2024
 * [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/watch?v=OAd5xZ6SwUU) @ Software Crafters Murcia (Remote) - Feb 2024
 * [Test de persistencia con Testcontainers](https://www.youtube.com/live/RKSeskXhOGE?si=gO7uue7XA45IapK0) @ Garaje de Ideas (Remote) - Oct 2023
 * [Can Engineers Save the Planet?](https://youtu.be/t2cfrOS5bag) - @ Codemotion (Madrid) - May 2023
