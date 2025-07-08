@@ -4,12 +4,13 @@
 
 I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Principles, Practices, and Values, and I try to apply them daily.
 
-- 🔭 I’m currently working at [Celonis](https://www.celonis.com/)
+- 🔭 I’m currently working at [Apipana.io](https://apipana.io/)
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Java
 - 👯 I'm taking part in some tech communities, like SVQ-JUG and any other Agile one focused creating well crafted code
 - 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
 - Formerly at:
+  - [Celonis](https://www.celonis.com/)
   - [Codurance](https://www.codurance.com)
   - [Solera CoE](https://www.solerainc.es/)
   - [Wata Factory](https://wata.es/es/)
