@@ -31,6 +31,9 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* Comming soon: Open Space @ Paradigma Digital - Oct 2025
+* [The Lazy Dev's Guide to Beatiful API's](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/api%20governance.pdf) @ Pulpocon - Sep 2025
+* [Don’t Let Your Code Skip Leg Day.Train your coding skills like your gym routine](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/Don%E2%80%99t%20Let%20Your%20Code%20Skip%20Leg%20Day%20-%20Workshop.pdf) @ Pulpocon - Sep 2025
 * [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/live/CUZ-dpK4M5I?si=-bBDQk06RaIxXYFB) @ Mes de QA (Remote) - Jun 2024
 * [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/watch?v=OAd5xZ6SwUU) @ Software Crafters Murcia (Remote) - Feb 2024
 * [Test de persistencia con Testcontainers](https://www.youtube.com/live/RKSeskXhOGE?si=gO7uue7XA45IapK0) @ Garaje de Ideas (Remote) - Oct 2023
