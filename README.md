@@ -31,7 +31,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
-* Comming soon: Open Space @ Paradigma Digital - Oct 2025
+* La guía del desarrollador perezoso para APIs bonitas - Open Space @ Paradigma Digital - Oct 2025
 * [The Lazy Dev's Guide to Beatiful API's](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/api%20governance.pdf) @ Pulpocon - Sep 2025
 * [Don’t Let Your Code Skip Leg Day.Train your coding skills like your gym routine](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/Don%E2%80%99t%20Let%20Your%20Code%20Skip%20Leg%20Day%20-%20Workshop.pdf) @ Pulpocon - Sep 2025
 * [Antipatrones en Testing y Buenas Prácticas](https://www.youtube.com/live/CUZ-dpK4M5I?si=-bBDQk06RaIxXYFB) @ Mes de QA (Remote) - Jun 2024
@@ -49,6 +49,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :radio: Podcasts
 
+* [De aquellos barros, estos lodos](https://open.spotify.com/episode/42Cw4VmxlnHZKfM8GkUH9j?si=mM0a7pe6QqWFSPWipNTnAQ&nd=1&dlsi=f7c44615edbe4677) @ With [Ensemble Podcasting](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD) - October 2025
 * [El Arte del Diseño de Software at ThoughtWorks](https://www.thoughtworks.com/es-cl/insights/podcasts/hablando-software/el-arte-del-diseno-de-software) @ With Javier López (@javisan81) - June 2024
 * [Vue + Microfrontends at BiriBiriShow](https://anchor.fm/biri-biri-show/episodes/EP-28---micro-frontends--vuejs-y-como-siempre-SCRUM----con-Jesus-Mara-Villar-Vazquez-geeksusma-e1mlv6b) @ With Matheus Marabesi (@MatheusMarabesi) & JP Blanco (@JPBlancoDB) - August 2022
 * [Surf, Punk y RevenueCat](https://trabajoenremoto.com/podcast/surf-punk-revenue-cat) @ With Miguel Carranza (@elwatto) - 2022
