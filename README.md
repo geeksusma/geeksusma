@@ -31,6 +31,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* [Diseñar bonito para vivir féliz](https://www.meetup.com/fullstacksevilla/events/311838809/) - FullStack SVQ @ Apipana.io - Dec 2025
 * [La guía del desarrollador perezoso para APIs bonitas](https://www.paradigmadigital.com/dev/desplegar-viernes-liderazgo-sin-egos-asi-fue-paradigma-open-space-2025/) - Open Space @ Paradigma Digital - Oct 2025
 * [The Lazy Dev's Guide to Beatiful API's](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/api%20governance.pdf) @ Pulpocon - Sep 2025
 * [Don’t Let Your Code Skip Leg Day.Train your coding skills like your gym routine](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/Don%E2%80%99t%20Let%20Your%20Code%20Skip%20Leg%20Day%20-%20Workshop.pdf) @ Pulpocon - Sep 2025
