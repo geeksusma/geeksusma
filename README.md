@@ -8,7 +8,7 @@ I'm Jesus, an Agile Developer who strongly believes in eXtreme Programming Princ
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Java
 - 👯 I'm taking part in some tech communities, like SVQ-JUG and any other Agile one focused creating well crafted code
-- 📫 Follow me at Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/geeksusma?style=social])](https://twitter.com/geeksusma)
+- 📫 Follow me at Linkedin! my username is geeksusma
 - Formerly at:
   - [Celonis](https://www.celonis.com/)
   - [Codurance](https://www.codurance.com)
