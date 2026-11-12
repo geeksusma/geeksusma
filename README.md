@@ -31,6 +31,7 @@ In addition, I also support the next communities, attending regularly to their m
 
 ## :microphone: Talks
 
+* [El mentor ha muerto, larga vida al mentor!](https://gdg.community.dev/events/details/google-gdg-jerez-de-la-frontera-presents-devfest-jerez-de-la-frontera/) - GDG Jerez de la Frontera SVQ @ Google DevFest - Dec 2026
 * [Diseñar bonito para vivir féliz](https://www.meetup.com/fullstacksevilla/events/311838809/) - FullStack SVQ @ Apipana.io - Dec 2025
 * [La guía del desarrollador perezoso para APIs bonitas](https://www.paradigmadigital.com/dev/desplegar-viernes-liderazgo-sin-egos-asi-fue-paradigma-open-space-2025/) - Open Space @ Paradigma Digital - Oct 2025
 * [The Lazy Dev's Guide to Beatiful API's](https://github.com/geeksusma/tdd-workshop/blob/main/pulpocon/api%20governance.pdf) @ Pulpocon - Sep 2025
